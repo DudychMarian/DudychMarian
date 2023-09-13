@@ -29,8 +29,9 @@ Frontend Developer from London, UK 🇬🇧
 
 <h2 align="left" id="dudych-stats">🔥 My Stats</h2>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=DudychMarian&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DudychMarian&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="225" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DudychMarian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="225" alt="languages graph"  />
 </div>
 
 <br />
