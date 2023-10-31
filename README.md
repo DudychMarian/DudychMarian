@@ -90,13 +90,57 @@ Frontend Developer from London, UK 🇬🇧
       </a>
       <br>npm
     </td>
-     <td align="center" width="110" height="90"> 
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://images.opencollective.com/pnpm/4319703/logo/256.png" width="36" height="36" alt="pnpm" />
+      </a>
+      <br>pnpm
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90"> 
       <a href="#dudych-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="36" height="36" alt="github" />
       </a>
       <br>github
     </td>
-  </tr> 
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://brandeps.com/logo-download/G/GitLab-logo-vector-01.svg" width="36" height="36" alt="gitlab" />
+      </a>
+      <br>gitlab
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" width="36" height="36" alt="bitbucket" />
+      </a>
+      <br>bitbucket
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" width="36" height="36" alt="jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" width="36" height="36" alt="Confluence" />
+      </a>
+      <br>Confluence
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://avatars.slack-edge.com/2021-07-19/2282472048054_9a51d280179d828b3ad7_512.png" width="36" height="36" alt="Trello" />
+      </a>
+      <br>Trello
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://seeklogo.com/images/L/linear-icon-logo-EC07930519-seeklogo.com.png" width="36" height="36" alt="Linear" />
+      </a>
+      <br>Linear
+    </td>
+  </tr>
 </table>
 
 > Testing
@@ -114,6 +158,12 @@ Frontend Developer from London, UK 🇬🇧
         <img src="https://assets.devographics.com/projects/testing_library.png" width="36" height="36" alt="react testing library" />
       </a>
       <br>rt library
+    </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ih3wgcjnztxkqpvy8t8b" width="36" height="36" alt="Cypress" />
+      </a>
+      <br>Cypress
     </td>
   </tr> 
 </table>
@@ -133,6 +183,12 @@ Frontend Developer from London, UK 🇬🇧
         <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="36" height="36" alt="prettier" />
       </a>
       <br>prettier
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://brandeps.com/logo-download/S/Stylelint-logo-vector-01.svg" width="36" height="36" alt="stylelint" />
+      </a>
+      <br>stylelint
     </td>
   </tr> 
 </table>
@@ -159,17 +215,11 @@ Frontend Developer from London, UK 🇬🇧
       </a>
       <br>Redux
     </td>
-     <td align="center" width="110" height="90">
+    <td align="center" width="110" height="90">
       <a href="#dudych-stack">
-        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*elhu-42TzQEdsFjKDbQhhA.png" width="36" height="36" alt="TanStack Query" />
       </a>
-      <br>MUI
-    </td>
-   <td align="center" width="110" height="90">
-      <a href="#dudych-stack">
-        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
+      <br>TanStack Query
     </td>
     <td align="center" width="110" height="90"> 
       <a href="#dudych-stack" >
@@ -182,20 +232,58 @@ Frontend Developer from London, UK 🇬🇧
         <img src="https://vitejs.dev/logo.svg" width="36" height="36" alt="Vite" />
       </a>
       <br>Vite
-    </td> 
+    </td>
+     <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="36" height="36" alt="Material UI" />
+      </a>
+      <br>MUI
+    </td>
+   <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" width="36" height="36" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
     <td align="center" width="110" height="90">
       <a href="#dudych-stack">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
       </a>
       <br>Sass
     </td>
-   <td align="center" width="110" height="90">
+  </tr>
+  <tr>
+    <td align="center" width="110" height="90">
       <a href="#dudych-stack">
         <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="Tailwind" />
       </a>
       <br>Tailwind
     </td>
-  </tr> 
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://react.semantic-ui.com/logo.png" width="36" height="36" alt="Semantic UI" />
+      </a>
+      <br>Semantic‎‎ UI
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://seeklogo.com/images/A/ant-design-logo-EAB6B3D5D9-seeklogo.com.png" width="36" height="36" alt="Ant Design" />
+      </a>
+      <br>Ant Design
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" width="36" height="36" alt="React Hook Form" />
+      </a>
+      <br>React Hook Form
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack">
+        <img src="https://static-00.iconduck.com/assets.00/formik-icon-1024x1024-deyd4zqw.png" width="36" height="36" alt="Formik" />
+      </a>
+      <br>Formik
+    </td>
+  </tr>
 </table>
 
 > Mobile
@@ -227,6 +315,12 @@ Frontend Developer from London, UK 🇬🇧
       </a>
       <br>Node JS
     </td>
+    <td align="center" width="110" height="90"> 
+      <a href="#dudych-stack" >
+        <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" width="36" height="36" alt="express" />
+      </a>
+      <br>express
+    </td>
     <td align="center" width="110" height="90">
       <a href="#dudych-stack" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="Mongo DB" />
@@ -239,7 +333,51 @@ Frontend Developer from London, UK 🇬🇧
       </a>
       <br>Firebase
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="36" height="36" alt="PostgreSQL" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" width="36" height="36" alt="swagger" />
+      </a>
+      <br>swagger
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://media.licdn.com/dms/image/D4D12AQHW9aRSWIOMxQ/article-cover_image-shrink_600_2000/0/1657421703592?e=2147483647&v=beta&t=nKygyfSDFwgPdEoC-nEkogMS0527SBa8z8D_FqUr-us" width="36" height="36" alt="JWT" />
+      </a>
+      <br>JWT
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-stripe-2-498440.png?f=webp" width="36" height="36" alt="stripe" />
+      </a>
+      <br>stripe
+    </td>
   </tr> 
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://static-00.iconduck.com/assets.00/aws-icon-1024x1024-runl182z.png" width="36" height="36" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="36" height="36" alt="Azure" />
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#dudych-stack" >
+        <img src="https://cdn.worldvectorlogo.com/logos/aws-cognito.svg" width="36" height="36" alt="Cognito" />
+      </a>
+      <br>Cognito
+    </td>
+  </tr>
 </table>
 
 > Other
